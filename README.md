@@ -1,5 +1,5 @@
 # march-hackathon-testing
 
-+Collaberators
++Contributors
 
 +Wireframes
